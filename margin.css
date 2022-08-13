@@ -1,0 +1,9 @@
+div{
+    border:3px ridge green;
+    margin:5% auto;
+    background-image: url('childhood2.jpeg');
+    background-repeat: no-repeat;
+    
+    
+    padding: 2px;
+}
